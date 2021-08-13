@@ -118,7 +118,8 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "HBDDD:serve"
+            "devServerTarget": "Geburtstag:serve"
+            }
           },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
